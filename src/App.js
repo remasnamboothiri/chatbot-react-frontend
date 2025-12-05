@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
 
-const API_BASE_URL = 'https://django-langchain-chatbot.onrender.com'; // Replace with your Render URL
+const API_BASE_URL = 'https://django-chatbot-api.onrender.com'; // Replace with your Render URL
 
 function App() {
   const [messages, setMessages] = useState([
