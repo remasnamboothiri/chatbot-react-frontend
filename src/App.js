@@ -63,7 +63,7 @@ function App() {
     <div className="App">
       <div className="chat-container">
         <div className="chat-header">
-          🤖 LangChain Django Chatbot
+          🤖  Chatbot
         </div>
         
         <div className="chat-messages">
